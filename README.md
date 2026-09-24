@@ -22,7 +22,7 @@ npm run dev
 ## Print dos testes e exemplo de requisições
 
 - CREATE 
-![Create]("./create.png")
+![Create]('./prints/create.png')
 
 - READ ALL
 ![ReadAll]("./readall.png")
