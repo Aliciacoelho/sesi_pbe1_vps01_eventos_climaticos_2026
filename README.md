@@ -25,25 +25,25 @@ npm run dev
 ![Create](./prints/create.png)
 
 - READ ALL
-![ReadAll](./readall.png)
+![ReadAll](./prints/readall.png)
 
 - BUSCAR POR ID 
-![BuscarPorID](./buscarporid.png)
+![BuscarPorID](./prints/buscarporid.png)
 
 - BUSCAR POR CIDADE 
-![BuscarPorCidade](./buscarporcidade.png)
+![BuscarPorCidade](./prints/buscarporcidade.png)
 
 - BUSCAR POR EVENTO
-![BuscarPorEvento](./buscarporevento.png)
+![BuscarPorEvento](./prints/buscarporevento.png)
 
 - UPDATE
-![Update](./update.png)
+![Update](./prints/update.png)
 
 - DELETE 
-![Delete](./delete.png)
+![Delete](./prints/delete.png)
 
 ## Cliente
-![Cliente](./cliente.png)
+![Cliente](./prints/cliente.png)
 
 ## Resposta : 
-![Resposta](./resposta.png)
+![Resposta](./prints/resposta.png)
