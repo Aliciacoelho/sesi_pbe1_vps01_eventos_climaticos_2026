@@ -22,28 +22,28 @@ npm run dev
 ## Print dos testes e exemplo de requisições
 
 - CREATE 
-![Create]('./prints/create.png')
+![Create](./prints/create.png)
 
 - READ ALL
-![ReadAll]("./readall.png")
+![ReadAll](./readall.png)
 
 - BUSCAR POR ID 
-![BuscarPorID]("./buscarporid.png")
+![BuscarPorID](./buscarporid.png)
 
 - BUSCAR POR CIDADE 
-![BuscarPorCidade]("./buscarporcidade.png")
+![BuscarPorCidade](./buscarporcidade.png)
 
 - BUSCAR POR EVENTO
-![BuscarPorEvento]("./buscarporevento.png")
+![BuscarPorEvento](./buscarporevento.png)
 
 - UPDATE
-![Update]("./update.png")
+![Update](./update.png)
 
 - DELETE 
-![Delete]("./delete.png")
+![Delete](./delete.png)
 
 ## Cliente
-![Cliente]("./cliente.png")
+![Cliente](./cliente.png)
 
-- Resposta : 
-![Resposta]"(./resposta.png")
+## Resposta : 
+![Resposta](./resposta.png)
