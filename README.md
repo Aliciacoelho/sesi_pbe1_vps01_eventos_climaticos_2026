@@ -28,7 +28,7 @@ npm run dev
 ![ReadAll](./prints/readall.png)
 
 - BUSCAR POR ID <br>
-![BuscarPorID](./prints/buscarporid.png)
+![BuscarPorID](./prints/buscarporidpng.png)
 
 - BUSCAR POR CIDADE <br>
 ![BuscarPorCidade](./prints/buscarporcidade.png)
