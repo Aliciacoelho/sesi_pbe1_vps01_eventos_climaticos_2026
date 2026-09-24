@@ -21,28 +21,28 @@ npm run dev
 
 ## Print dos testes e exemplo de requisições
 
-- CREATE 
+- CREATE <br>
 ![Create](./prints/create.png)
 
-- READ ALL
+- READ ALL <br>
 ![ReadAll](./prints/readall.png)
 
-- BUSCAR POR ID 
+- BUSCAR POR ID <br>
 ![BuscarPorID](./prints/buscarporid.png)
 
-- BUSCAR POR CIDADE 
+- BUSCAR POR CIDADE <br>
 ![BuscarPorCidade](./prints/buscarporcidade.png)
 
-- BUSCAR POR EVENTO
+- BUSCAR POR EVENTO <br>
 ![BuscarPorEvento](./prints/buscarporevento.png)
 
-- UPDATE
+- UPDATE <br>
 ![Update](./prints/update.png)
 
-- DELETE 
+- DELETE <br>
 ![Delete](./prints/delete.png)
 
-## Cliente
+## Cliente 
 ![Cliente](./prints/cliente.png)
 
 ## Resposta : 
